@@ -1,0 +1,12 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe.config
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Exercise_1\Exercise_1\bin\Debug\Exercise_1.pdb
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csprojResolveAssemblyReference.cache
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Exercise_1\Exercise_1\obj\Debug\Exercise_1.exe
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Exercise_1\Exercise_1\obj\Debug\Exercise_1.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_2\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe.config
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_2\Exercise_1\Exercise_1\obj\Debug\Exercise_1.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_2\Exercise_1\Exercise_1\obj\Debug\Exercise_1.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_2\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_2\Exercise_1\Exercise_1\bin\Debug\Exercise_1.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_2\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csprojResolveAssemblyReference.cache

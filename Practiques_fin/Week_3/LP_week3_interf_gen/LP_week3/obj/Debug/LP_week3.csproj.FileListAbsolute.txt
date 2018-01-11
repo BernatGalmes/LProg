@@ -1,0 +1,12 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week3\LP_week3\bin\Debug\LP_week3.exe.config
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week3\LP_week3\bin\Debug\LP_week3.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week3\LP_week3\bin\Debug\LP_week3.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week3\LP_week3\obj\Debug\LP_week3.csprojResolveAssemblyReference.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week3\LP_week3\obj\Debug\LP_week3.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week3\LP_week3\obj\Debug\LP_week3.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_interf_gen\LP_week3\bin\Debug\LP_week3.exe.config
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_interf_gen\LP_week3\obj\Debug\LP_week3.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_interf_gen\LP_week3\obj\Debug\LP_week3.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_interf_gen\LP_week3\bin\Debug\LP_week3.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_interf_gen\LP_week3\bin\Debug\LP_week3.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_interf_gen\LP_week3\obj\Debug\LP_week3.csprojResolveAssemblyReference.cache

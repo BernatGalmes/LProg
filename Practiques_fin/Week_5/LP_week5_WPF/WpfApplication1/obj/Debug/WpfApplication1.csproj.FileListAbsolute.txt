@@ -1,0 +1,28 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\bin\Debug\WpfApplication1.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\bin\Debug\WpfApplication1.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\App.g.cs
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\MainWindow.g.cs
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\App.g.cs
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\MainWindow.baml
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_5\LP_week5_WPF\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache

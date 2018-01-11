@@ -1,0 +1,48 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Week6_DataSet\Week6_DataSet\bin\Debug\Week6_DataSet.exe.config
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.csprojResolveAssemblyReference.cache
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\MainWindow.g.cs
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\App.g.cs
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet_MarkupCompile.cache
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet_MarkupCompile.lref
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\bin\Debug\Week6_DataSet.exe
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\bin\Debug\Week6_DataSet.pdb
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\bin\Debug\week_6_library.dll
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\bin\Debug\week_6_library.pdb
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\MainWindow.baml
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.g.resources
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.Properties.Resources.resources
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.csproj.GenerateResource.Cache
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.exe
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.pdb
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\Week6_DataSet.exe.config
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.exe
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.pdb
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\Week6_DataSet.exe
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\Week6_DataSet.pdb
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\week_6_library.dll
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\week_6_library.pdb
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.csprojResolveAssemblyReference.cache
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\MainWindow.g.cs
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\App.g.cs
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet_MarkupCompile.cache
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet_MarkupCompile.lref
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\MainWindow.baml
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.g.resources
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.Properties.Resources.resources
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.csproj.GenerateResource.Cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\Week6_DataSet.exe.config
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\Week6_DataSet.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\Week6_DataSet.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\week_6_library.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\bin\Debug\week_6_library.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.csprojResolveAssemblyReference.cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\MainWindow.g.cs
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\App.g.cs
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet_MarkupCompile.cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet_MarkupCompile.lref
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\MainWindow.baml
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.g.resources
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.Properties.Resources.resources
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\Week6_DataSet\Week6_DataSet\obj\Debug\Week6_DataSet.csproj.GenerateResource.Cache

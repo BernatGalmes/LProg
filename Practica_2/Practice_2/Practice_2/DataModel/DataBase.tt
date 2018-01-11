@@ -1,0 +1,16 @@
+<#@ template language="C#" debug="True" hostSpecific="True"                            #>
+<#@ output extension=".generated.cs"                                                   #>
+<#@ include file="$(ProjectDir)LinqToDB.Templates\LinqToDB.PostgreSQL.Tools.ttinclude" #>
+<#@ include file="$(ProjectDir)LinqToDB.Templates\PluralizationService.ttinclude"      #>
+<#
+
+	NamespaceName = "DataModel";
+
+	LoadPostgreSQLMetadata(
+			@"lpp21744.cfyerfwcpdul.eu-central-1.rds.amazonaws.com", 
+			"8080", 
+			"lpp", 
+			"user", 
+			"user");
+	GenerateModel();
+#>

@@ -1,0 +1,57 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\Practice_2.exe.config
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\Practice_2.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\Practice_2.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\linq2db.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\Mono.Security.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\Npgsql.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\linq2db.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\Npgsql.xml
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\Practice_2.csprojResolveAssemblyReference.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\MainWindow.g.cs
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\App.g.cs
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\Practice_2_Content.g.cs
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\Practice_2_MarkupCompile.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\Practice_2_MarkupCompile.lref
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\MainWindow.baml
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\Practice_2.g.resources
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\Practice_2.Properties.Resources.resources
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\Practice_2.csproj.GenerateResource.Cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\Practice_2.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\obj\Debug\Practice_2.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\de\Npgsql.resources.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\es\Npgsql.resources.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\fi\Npgsql.resources.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\fr\Npgsql.resources.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\ja\Npgsql.resources.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Practice_2\Practice_2\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Practice_2\Practice_2\obj\Debug\App.baml
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\Practice_2.exe.config
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2.exe
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\Practice_2.exe.config
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\Practice_2.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\Practice_2.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\linq2db.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\Mono.Security.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\Npgsql.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\linq2db.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\Npgsql.xml
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\de\Npgsql.resources.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\es\Npgsql.resources.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\fi\Npgsql.resources.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\fr\Npgsql.resources.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\ja\Npgsql.resources.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2.csprojResolveAssemblyReference.cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\MainWindow.g.cs
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\App.g.cs
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2_Content.g.cs
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2_MarkupCompile.cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2_MarkupCompile.lref
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\App.baml
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\MainWindow.baml
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2.g.resources
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2.Properties.Resources.resources
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practica_2\Practice_2\Practice_2\obj\Debug\Practice_2.csproj.GenerateResource.Cache

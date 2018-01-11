@@ -1,0 +1,155 @@
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using DataModel;
+using LinqToDB;
+using Practice_2.Classes;
+using System.Collections.ObjectModel;
+
+namespace Practice_2
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        public DataTable t_students;
+
+        public MainWindow()
+        {
+            InitializeComponent();
+            using (var db = new lppDB())
+            {
+
+               
+                this.comboBox.ItemsSource = from d in db.degrees select d;
+
+                DataSet ds = new DataSet();
+                t_students = DataTableStudents(db);
+                t_students.CaseSensitive = false;
+
+                ds.Tables.Add(t_students);
+                
+                this.dg_students.DataContext = t_students.DefaultView;
+                
+
+                db.Close();
+            }    
+        }
+
+        public DataTable DataTableStudents(lppDB db)
+        {
+            DataTable dataTable = new DataTable("students table");
+
+            DataColumn column;
+
+            //Setting column names as Property names
+            column = new DataColumn();
+            column.DataType = Type.GetType("System.String");
+            column.ColumnName = "id";
+            dataTable.Columns.Add(column);
+
+            column = new DataColumn();
+            column.DataType = Type.GetType("System.String");
+            column.ColumnName = "name";
+            dataTable.Columns.Add(column);
+
+            column = new DataColumn();
+            column.DataType = Type.GetType("System.String");
+            column.ColumnName = "surname";
+            dataTable.Columns.Add(column);
+
+            column = new DataColumn();
+            column.DataType = Type.GetType("System.String");
+            column.ColumnName = "degree";
+            dataTable.Columns.Add(column);
+
+            List<Student_item> students = (from s in db.students
+                                           from d in db.degrees.Where(d => d.id == s.degree_id).DefaultIfEmpty()
+                                           select new Student_item(s, d)).ToList<Student_item>();
+
+            foreach (Student_item item in students)
+            {
+
+                object[] values = new object[4] { item.St.id, item.St.name, item.St.surname, item.Deg };
+                dataTable.Rows.Add(values);
+            }
+            //put a breakpoint here and check datatable
+            return dataTable;
+        }
+
+        private void FilterResults(object sender, RoutedEventArgs e)
+        {
+            string f_name, f_surname, f_degree;
+            f_name = this.fil_name.Text;
+            f_surname = "";
+            f_degree = "";
+            List<> f = t_students.AsEnumerable().Where(x=> filterStudent(x, f_name, f_surname, f_degree)).AsEnumerable();
+        }
+        private Boolean containsPattern (string item, string pattern)
+        {
+            if (pattern.Length != 0)
+            {
+                if (item.Contains(pattern))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+        private Boolean filterStudent(DataRow x, string f_name, string f_surname, string f_degree)
+        {
+            string name = x.Field<String>("name");
+            string surname = x.Field<String>("surname");
+            string degree = x.Field<String>("degree");
+
+            if (!containsPattern(name, f_name))
+            {
+                return false;
+            }
+
+            if (!containsPattern(name, f_surname))
+            {
+                return false;
+            }
+
+            if (!containsPattern(name, f_degree))
+            {
+                return false;
+            }
+
+            return true;
+        }
+
+        private void dg_students_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void btn_submitInsert_Click(object sender, RoutedEventArgs e)
+        {
+            string name, surname;
+            degree d;
+
+            name = this.tb_name.Text;
+            surname = this.tb_surname.Text;
+            d = (degree) this.comboBox.SelectedItem;
+            
+            student c = new student();
+            c.name = name; c.surname = surname; //c.id = 56773;
+            //students.Add(new Student_item(c,d));
+           // this.dg_students.ItemsSource = students;
+            MessageBox.Show("Item insert success!");
+
+        }
+    }
+
+    public class ListStudents : ObservableCollection<Task>
+    {
+
+    }
+}

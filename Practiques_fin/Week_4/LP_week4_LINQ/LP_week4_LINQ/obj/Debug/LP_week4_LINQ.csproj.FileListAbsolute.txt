@@ -1,0 +1,12 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_LINQ\LP_week4_LINQ\bin\Debug\LP_week4_LINQ.exe.config
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_LINQ\LP_week4_LINQ\bin\Debug\LP_week4_LINQ.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_LINQ\LP_week4_LINQ\bin\Debug\LP_week4_LINQ.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_LINQ\LP_week4_LINQ\obj\Debug\LP_week4_LINQ.csprojResolveAssemblyReference.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_LINQ\LP_week4_LINQ\obj\Debug\LP_week4_LINQ.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_LINQ\LP_week4_LINQ\obj\Debug\LP_week4_LINQ.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_LINQ\LP_week4_LINQ\bin\Debug\LP_week4_LINQ.exe.config
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_LINQ\LP_week4_LINQ\obj\Debug\LP_week4_LINQ.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_LINQ\LP_week4_LINQ\obj\Debug\LP_week4_LINQ.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_LINQ\LP_week4_LINQ\bin\Debug\LP_week4_LINQ.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_LINQ\LP_week4_LINQ\bin\Debug\LP_week4_LINQ.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_LINQ\LP_week4_LINQ\obj\Debug\LP_week4_LINQ.csprojResolveAssemblyReference.cache

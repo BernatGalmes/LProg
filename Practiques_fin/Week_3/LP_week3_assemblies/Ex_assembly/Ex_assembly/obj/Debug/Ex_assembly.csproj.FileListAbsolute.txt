@@ -1,0 +1,4 @@
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Ex_assembly\Ex_assembly\bin\Debug\Ex_assembly.dll
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Ex_assembly\Ex_assembly\bin\Debug\Ex_assembly.pdb
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Ex_assembly\Ex_assembly\obj\Debug\Ex_assembly.dll
+C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Ex_assembly\Ex_assembly\obj\Debug\Ex_assembly.pdb

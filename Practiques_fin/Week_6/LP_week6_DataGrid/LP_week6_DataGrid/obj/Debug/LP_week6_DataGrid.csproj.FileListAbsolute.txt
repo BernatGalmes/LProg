@@ -1,0 +1,28 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\bin\Debug\LP_week6_DataGrid.exe.config
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\bin\Debug\LP_week6_DataGrid.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\bin\Debug\LP_week6_DataGrid.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.csprojResolveAssemblyReference.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\MainWindow.g.cs
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\App.g.cs
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid_MarkupCompile.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid_MarkupCompile.lref
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\MainWindow.baml
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.g.resources
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.Properties.Resources.resources
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.csproj.GenerateResource.Cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\bin\Debug\LP_week6_DataGrid.exe.config
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\bin\Debug\LP_week6_DataGrid.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\bin\Debug\LP_week6_DataGrid.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.csprojResolveAssemblyReference.cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\MainWindow.g.cs
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\App.g.cs
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid_MarkupCompile.cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid_MarkupCompile.lref
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\MainWindow.baml
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.g.resources
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.Properties.Resources.resources
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\LP_week6_DataGrid\LP_week6_DataGrid\obj\Debug\LP_week6_DataGrid.csproj.GenerateResource.Cache

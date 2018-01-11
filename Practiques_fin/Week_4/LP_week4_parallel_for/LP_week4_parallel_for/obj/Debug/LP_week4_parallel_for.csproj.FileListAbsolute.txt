@@ -1,0 +1,12 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_parallel_for\LP_week4_parallel_for\bin\Debug\LP_week4_parallel_for.exe.config
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_parallel_for\LP_week4_parallel_for\bin\Debug\LP_week4_parallel_for.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_parallel_for\LP_week4_parallel_for\bin\Debug\LP_week4_parallel_for.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_parallel_for\LP_week4_parallel_for\obj\Debug\LP_week4_parallel_for.csprojResolveAssemblyReference.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_parallel_for\LP_week4_parallel_for\obj\Debug\LP_week4_parallel_for.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\LP_week4_parallel_for\LP_week4_parallel_for\obj\Debug\LP_week4_parallel_for.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_parallel_for\LP_week4_parallel_for\bin\Debug\LP_week4_parallel_for.exe.config
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_parallel_for\LP_week4_parallel_for\obj\Debug\LP_week4_parallel_for.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_parallel_for\LP_week4_parallel_for\obj\Debug\LP_week4_parallel_for.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_parallel_for\LP_week4_parallel_for\bin\Debug\LP_week4_parallel_for.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_parallel_for\LP_week4_parallel_for\bin\Debug\LP_week4_parallel_for.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_4\LP_week4_parallel_for\LP_week4_parallel_for\obj\Debug\LP_week4_parallel_for.csprojResolveAssemblyReference.cache

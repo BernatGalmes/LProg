@@ -1,0 +1,15 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\week_6_library\week_6_library\bin\Debug\week_6_library.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\week_6_library\week_6_library\bin\Debug\week_6_library.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\week_6_library\week_6_library\obj\Debug\week_6_library.csprojResolveAssemblyReference.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\week_6_library\week_6_library\obj\Debug\week_6_library.dll
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\week_6_library\week_6_library\obj\Debug\week_6_library.pdb
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\bin\Debug\week_6_library.dll
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\bin\Debug\week_6_library.pdb
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\obj\Debug\week_6_library.csprojResolveAssemblyReference.cache
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\obj\Debug\week_6_library.dll
+C:\Users\berna\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\obj\Debug\week_6_library.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\bin\Debug\week_6_library.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\bin\Debug\week_6_library.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\obj\Debug\week_6_library.csprojResolveAssemblyReference.cache
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\obj\Debug\week_6_library.dll
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_6\week_6_library\week_6_library\obj\Debug\week_6_library.pdb

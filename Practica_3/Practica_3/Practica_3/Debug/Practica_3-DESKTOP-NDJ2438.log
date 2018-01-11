@@ -1,0 +1,29 @@
+﻿  Preprocessing: Template.cl
+  OpenCL Intel(R) Graphics device was found!
+  Device name: Intel(R) HD Graphics 4600
+  Device version: OpenCL 1.2 
+  Device vendor: Intel(R) Corporation
+  Device profile: FULL_PROFILE
+  fcl build 1 succeeded.
+  fcl build 2 succeeded.
+  bcl build succeeded.
+  
+  Add info:
+  	Maximum work-group size: 512
+  	Compiler work-group size: (0, 0, 0)
+  	Local memory size: 0
+  	Preferred multiple of work-group size: 32
+  	Minimum amount of private memory: 0
+  
+  Build succeeded!
+  
+  utils.cpp
+  Practica_3.cpp
+Practica_3.cpp(537): warning C4996: 'clCreateCommandQueue': was declared deprecated
+  C:\Program Files (x86)\Intel\OpenCL SDK\6.3\include\CL\cl.h(1428): note: see declaration of 'clCreateCommandQueue'
+  Generating Code...
+  LINK : C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Practica_3\Debug\Practica_3.exe not found or not built by the last incremental link; performing full link
+  Practica_3.vcxproj -> C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Practica_3\Debug\Practica_3.exe
+  Practica_3.vcxproj -> C:\Users\berna\OneDrive\Documentos\Visual Studio 2015\Projects\Practica_3\Debug\Practica_3.pdb (Full PDB)
+  Template.cl
+          1 archivo(s) copiado(s).

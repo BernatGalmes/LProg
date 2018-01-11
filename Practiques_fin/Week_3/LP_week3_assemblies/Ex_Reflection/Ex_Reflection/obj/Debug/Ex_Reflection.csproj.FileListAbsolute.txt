@@ -1,0 +1,12 @@
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Ex_Reflection\Ex_Reflection\bin\Debug\Ex_Reflection.exe.config
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Ex_Reflection\Ex_Reflection\obj\Debug\Ex_Reflection.csprojResolveAssemblyReference.cache
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Ex_Reflection\Ex_Reflection\bin\Debug\Ex_Reflection.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Ex_Reflection\Ex_Reflection\bin\Debug\Ex_Reflection.pdb
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Ex_Reflection\Ex_Reflection\obj\Debug\Ex_Reflection.exe
+c:\users\berna\onedrive\documentos\visual studio 2015\Projects\Ex_Reflection\Ex_Reflection\obj\Debug\Ex_Reflection.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_assemblies\Ex_Reflection\Ex_Reflection\bin\Debug\Ex_Reflection.exe.config
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_assemblies\Ex_Reflection\Ex_Reflection\obj\Debug\Ex_Reflection.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_assemblies\Ex_Reflection\Ex_Reflection\obj\Debug\Ex_Reflection.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_assemblies\Ex_Reflection\Ex_Reflection\bin\Debug\Ex_Reflection.exe
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_assemblies\Ex_Reflection\Ex_Reflection\bin\Debug\Ex_Reflection.pdb
+D:\Archius\Arxius\Dropbox\Carrera\Quart\Lab.Prog\Practiques_fin\Week_3\LP_week3_assemblies\Ex_Reflection\Ex_Reflection\obj\Debug\Ex_Reflection.csprojResolveAssemblyReference.cache
